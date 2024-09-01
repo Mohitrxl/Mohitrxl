@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohitrxl
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on android app development
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning MERN FULL STACK
+- 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
