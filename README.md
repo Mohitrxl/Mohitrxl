@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohitrxl
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN FULL STACK
-- 💞️ I’m looking to collaborate on Web Development.
+- 👀 I’m interested in Artificial Intelligence.
+- 🌱 I’m currently working on Generative AI Development.
+- 💞️ I like to collaborate on Web Development too.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
